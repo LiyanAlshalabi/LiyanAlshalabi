@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**LiyanAlshalabi/LiyanAlshalabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Liyan Alshalabi , a passionate computer engineer and front end web developer.
 
-Here are some ideas to get you started:
+## About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold a Bachelor's Degree in Computer Engineering from Yarmouk University.
+- 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
+- 💡 I'm passionate about creating innovative solutions and contributing to open-source projects.
+- 📫 You can reach me at liyanalshalabi36@gmail.com.
+
+## Skills 🚀
+
+- **Languages:** Js , Python , C++ , C , C# 
+- **Frontend:** HTML , CSS , JS
+- **Databases:** SQL
+  
+
+## Connect with Me 🌐
+
+- [LinkedIn] https://www.linkedin.com/in/liyan-alshalabi-0399b9261/
+- [Facebook] https://www.facebook.com/liyan.alshalabi.39/
+- [instagram] https://www.instagram.com/liyan_3333/
+
+## Let's Collaborate 🤝
+
+I'm always open to collaborating on interesting projects. Feel free to reach out if you have any exciting opportunities or ideas!
